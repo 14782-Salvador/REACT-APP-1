@@ -1,7 +1,6 @@
 .clear {
-  clear: both;
+    clear: both;
 }
-
 
 :root {
   --text: #6b6375;

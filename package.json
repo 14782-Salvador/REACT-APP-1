@@ -1,5 +1,5 @@
 {
-  "name": "react-app-1",
+  "name": "react-app-vite",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "bootstrap": "^4.6.2",
     "react": "^19.2.6",
     "react-dom": "^19.2.6"
   },
