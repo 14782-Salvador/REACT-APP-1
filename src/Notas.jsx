@@ -1,9 +1,25 @@
 import React, { useState } from 'react';
 
-function Notas () {
+    
+function Nota () {
 
+    const [formData, setFormData] = useState({
+        nomedoaluno: '',
+        notadostestes: '',
+        notadostrabalhos: '',
+        notadasatitudes: '',
+        testes: '',
+        trabalhos: ''
 
-    return(
-        <div className=""/>
+    });
+    
+    return (
+        <div>
+
+        </div>
     )
+
 }
+
+export default Nota;
+
